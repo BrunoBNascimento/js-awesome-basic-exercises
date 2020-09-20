@@ -54,3 +54,10 @@
 **Dado o seguinte array:** `[10, 20, 30, 40, 50, 60, 70, 80, 90]`
 
 **Implemente uma função que realiza a busca binária no array, implemente testes unitários**
+
+
+------
+
+## Como enviar os códigos?
+
+A pasta contendo os códigos, devem ser enviadas via PULL REQUEST para este repositório.
